@@ -18,6 +18,8 @@ To run this project, install the following:
 Install OpenCV using:
 ```bash
 pip install opencv-python
+```
+```bash
 pip install cv2
 ```
 
