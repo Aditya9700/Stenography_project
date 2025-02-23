@@ -23,7 +23,7 @@ pip install opencv-python
 pip install cv2
 ```
 
-## How to use
+## How to use:
 1. Place the image file in the project directory.
 2. Run the script and enter the secret message and passcode.
 3. The encrypted image will be saved.
