@@ -44,11 +44,12 @@ def decrypt_message(image, passcode, original_passcode, message_length):
         print("\nDecrypted message: ", decrypted_message)
     else:
         print("\nWrong password! Decryption failed.")
-
+        
+#Made By Aditya Rana
 if __name__ == "__main__":
     print_banner()
     image_path = "newimage.jpg"
-    # Replace with the correct image path
+    # Just replace with the correct image path
     secret_message = input("Enter secret message: ")
     passcode = input("Enter a passcode: ")
     
